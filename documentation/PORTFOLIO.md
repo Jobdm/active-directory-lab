@@ -129,7 +129,7 @@ Cross-platform monitoring system features:
 
 ---
 
-**Author**: Job Morales
+**Author**: Job Morales  
 **Date**: 2025-10-23  
 **Contact**: jobd.morales@gmail.com / https://www.linkedin.com/in/job-morales/
 
