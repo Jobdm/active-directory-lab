@@ -217,8 +217,8 @@ Cross-platform monitoring system featuring:
 
 ## 🔗 Related Projects
 
-- [PowerShell Automation Scripts](https://github.com/yourusername/powershell-scripts)
-- [Python Systems Management](https://github.com/yourusername/python-sysadmin)
+- [PowerShell Automation Scripts](https://github.com/Jobdm/powershell-scripts)
+- [Python Systems Management](https://github.com/Jobdm/python-sysadmin)
 
 ## 📝 License
 
