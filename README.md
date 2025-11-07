@@ -2,7 +2,7 @@
 
 A comprehensive Active Directory lab environment demonstrating enterprise-level skills in directory services, Group Policy management, PowerShell automation, and cross-platform integration.
 
-![AD Lab Architecture](images/architecture-diagram.PNG)
+![AD Lab Architecture](images/architecture-diagram.png)
 
 ## 🎯 Project Overview
 
