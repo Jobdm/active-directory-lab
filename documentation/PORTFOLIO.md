@@ -129,9 +129,8 @@ Cross-platform monitoring system features:
 
 ---
 
-**Author**: [Your Name]  
+**Author**: Job Morales
 **Date**: 2025-10-23  
-**Contact**: [Your Email/LinkedIn]  
+**Contact**: jobd.morales@gmail.com / https://www.linkedin.com/in/job-morales/
 
-**GitHub Repository**: [Link to repository]  
-**Live Demo**: [Link to demo environment if applicable]
+**GitHub Repository**: https://github.com/Jobdm/active-directory-lab
