@@ -41,7 +41,7 @@ This project showcases the design, implementation, and automation of a complete 
 - **DNS**: Internal DNS with external forwarders (8.8.8.8, 8.8.4.4)
 
 ### OU Structure
-
+```
 \\\
 lab.local
 ├── IT-Administration
@@ -61,7 +61,7 @@ lab.local
 │   └── Laptop-Computers
 └── Service-Accounts
 \\\
-
+```
 ## 📸 Environment Screenshots
 
 ### Active Directory Organizational Structure
@@ -107,7 +107,7 @@ lab.local
 - OpenMandriva (host OS)
 
 ## 📁 Repository Structure
-
+```
 \\\
 AD-Lab-Project/
 ├── documentation/
@@ -128,7 +128,7 @@ AD-Lab-Project/
 │   └── screenshots/          # Environment screenshots
 └── README.md
 \\\
-
+```
 ## 🚀 Key Scripts
 
 ### Generate-ADDocumentation.ps1
