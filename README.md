@@ -31,8 +31,8 @@ This project showcases the design, implementation, and automation of a complete 
 
 | Component | OS | IP Address | Role |
 |-----------|----|-----------|----- |
-| DC01-HQ | Windows Server 2022 | 10.1.0.10 | Domain Controller, DNS, DHCP |
-| Linux-Auto | Ubuntu 22.04 LTS | 10.1.0.20 | Automation Server, Monitoring |
+| DC01-HQ | Windows Server 2025 | 10.1.0.10 | Domain Controller, DNS, DHCP |
+| Linux-Auto | Ubuntu 24.04.3 LTS | 10.1.0.20 | Automation Server, Monitoring |
 
 ### Network Design
 
@@ -83,8 +83,8 @@ lab.local
 ## 🔧 Technologies Used
 
 ### Infrastructure
-- Windows Server 2022 (Active Directory Domain Services)
-- Ubuntu 22.04 LTS
+- Windows Server 2025 (Active Directory Domain Services)
+- Ubuntu 24.04.3 LTS
 - KVM/QEMU Virtualization
 - DNS and DHCP Services
 
@@ -198,7 +198,7 @@ Cross-platform monitoring system featuring:
 **Challenge**: Manual documentation becomes outdated quickly in dynamic environments  
 **Solution**: Created PowerShell automation that generates comprehensive documentation on-demand in multiple formats
 
-## 📈 Future Enhancements
+<!-- ## 📈 Future Enhancements
 
 - [ ] Multi-site AD replication with DC02-Branch
 - [ ] Certificate Services (AD CS) implementation
@@ -208,6 +208,7 @@ Cross-platform monitoring system featuring:
 - [ ] SIEM integration for security monitoring
 - [ ] Automated backup and restoration
 - [ ] Additional client VMs for testing
+-->
 
 ## 📚 Documentation
 
@@ -215,11 +216,11 @@ Cross-platform monitoring system featuring:
 - **[Architecture Diagrams](documentation/AD-DIAGRAMS.md)** - Visual network and OU diagrams  
 - **[Quick Reference](documentation/QUICK-REFERENCE.md)** - Command reference guide
 
-## 🔗 Related Projects
+<!-- ## 🔗 Related Projects
 
 - [PowerShell Automation Scripts](https://github.com/Jobdm/powershell-scripts)
 - [Python Systems Management](https://github.com/Jobdm/python-sysadmin)
-
+-->
 ## 📝 License
 
 This project is created for educational and portfolio purposes.
@@ -227,6 +228,7 @@ This project is created for educational and portfolio purposes.
 ## 👤 Author
 
 **Job Morales**
+
 - LinkedIn: [https://www.linkedin.com/in/job-morales/](https://www.linkedin.com/in/job-morales/)
 - Email: jobd.morales@gmail.com
 
@@ -240,4 +242,4 @@ This project is created for educational and portfolio purposes.
 
 **Note**: This is a lab environment created for learning and demonstration purposes. Passwords and security configurations shown are for educational use only and should not be used in production environments.
 
-**Last Updated**: 2025-11-05
+**Last Updated**: 2026-02-11
